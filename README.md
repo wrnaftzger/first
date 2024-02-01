@@ -1,1 +1,2 @@
-# first
+## About Me
+##### My name is Will Naftzger and I am a sophomore here at Saint Louis University. This semester I took a whole 180 and changed my major from criminology to data science. This is my first experience with computer science and programming. Although it is difficult, it is the class I look the most forward to. I have no clue what I want to do with my life, but dara science offers a wide array of possiblies so we're taking it day by day. I am looking forward to the semesters to come and the challenges I am certainly going to face.
